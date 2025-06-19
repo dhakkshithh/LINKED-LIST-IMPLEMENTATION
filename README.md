@@ -37,3 +37,7 @@ Expected output:
 The program first inserts three values: 10, 20, and 30. Since each new node is inserted at the beginning, the list looks like: 30 → 20 → 10 → NULL. When the delete function is called to remove the node with value 20, it successfully finds and removes it, resulting in the updated list: 30 → 10 → NULL.
 
 This task demonstrates a fundamental concept in data structures that underpins more complex structures like stacks, queues, and graphs. Understanding singly linked lists is essential for efficient memory management and for problems where the size of the dataset is unpredictable at compile time.
+
+*OUTPUT
+
+![Image](https://github.com/user-attachments/assets/c7c38af9-ee93-4bfe-aa1f-f876c5512c59)
